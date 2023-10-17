@@ -2,8 +2,7 @@
 
 Darshboards elaborados por mim no curso de Power BI do Ítalo Teotônio 
 
-![Análise de Produto](https://github.com/TVictor14/Power-BI/assets/50226866/0170d0bb-192f-4399-9570-f1180d738b21)
-
+![Análise de Produto](https://github.com/TVictor14/Power-BI/assets/50226866/bd715e3a-9f4d-40b8-bcd7-ebc870680fd8)
 
 ![Análise de Perfil](https://github.com/TVictor14/Power-BI/assets/50226866/b15912cb-8a0b-45a0-ba12-da30ff8559f9)
 
